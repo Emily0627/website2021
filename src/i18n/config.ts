@@ -338,7 +338,7 @@ export const resources = {
       "Formal cooperation with enterprises": "正式对接企业合作",
       "Eco Marathon Developer Activities": "生态马拉松开发者活动",
       "CTO": "联合创始人& 首席技术官",
-      "Founder & Researcher": "联合创始人& 首席技术官",
+      "Founder & Researcher": "创始人&研究员",
       "Core developer": "核心开发",
       "Researcher": "研究员",
       "Researcher&ceo": "创始人&研究员",
